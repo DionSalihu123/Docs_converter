@@ -41,3 +41,5 @@
 /home/dion/FileConverterApi/obj/Debug/net6.0/FileConverterApi.pdb
 /home/dion/FileConverterApi/obj/Debug/net6.0/FileConverterApi.genruntimeconfig.cache
 /home/dion/FileConverterApi/obj/Debug/net6.0/ref/FileConverterApi.dll
+/home/dion/FileConverterApi/bin/Debug/net6.0/FileConverterApi.staticwebassets.runtime.json
+/home/dion/FileConverterApi/obj/Debug/net6.0/FileConverterApi.sourcelink.json
